@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <generator uri="http://jekyllrb.com" version="3.0.3">Jekyll</generator>
-<link href="http://rpa.website/feed.xml" rel="self" type="application/atom+xml" />
-<link href="http://rpa.website/" rel="alternate" type="text/html" />
+<link href="http://rpaweb.github.io/feed.xml" rel="self" type="application/atom+xml" />
+<link href="http://rpaweb.github.io/" rel="alternate" type="text/html" />
 <updated>2016-12-09T04:19:53-05:00</updated>
-<id>http://rpa.website/</id>
+<id>http://rpaweb.github.io/</id>
 <title>Rafael Peña-Azar</title>
 <entry>
 <title>Init.</title>
-<link href="http://rpa.website/archive/2016/init" rel="alternate" type="text/html" title="Init." />
+<link href="http://rpaweb.github.io/archive/2016/init" rel="alternate" type="text/html" title="Init." />
 <published>2016-10-01T09:00:00-05:00</published>
 <updated>2016-10-01T09:00:00-05:00</updated>
-<id>http://rpa.website/archive/2016/init</id>
-<content type="html" xml:base="http://rpa.website/archive/2016/init">&lt;p align=&quot;justify&quot;&gt;Hello.&lt;/p&gt;
+<id>http://rpaweb.github.io/archive/2016/init</id>
+<content type="html" xml:base="http://rpaweb.github.io/archive/2016/init">&lt;p align=&quot;justify&quot;&gt;Hello.&lt;/p&gt;
 
 &lt;p align=&quot;justify&quot;&gt;I will use this personal blog to share information and news about programming, focusing on the Ruby language and its RubyOnRails framework, but without neglecting other languages ​​and frameworks they are giving a lot of talk today like Go, Elixir, Clojure, Meteor, Python/Django, PHP/Laravel, React, Ionic, among others. Additionally, I will post information, news and progress about the projects I&#39;m currently developing (mostly open source) and some other things that will be taking place in the foundation I&#39;m creating to develop/manage open source projects.&lt;/p&gt;
 
